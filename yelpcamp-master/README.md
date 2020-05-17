@@ -1,6 +1,4 @@
 # Yelpcamp
->A Campground Rating site that uses RESTful API<br>
->Link: https://rama-yelpcamp.herokuapp.com
 ## Overview:
 > <p> This is a small project of Colt Steele's <em>Web Developer Bootcamp</em> course in udemy.</p>
 > <p> In this website, Users can create new <em>campgrounds</em> and comment and rate other's 
