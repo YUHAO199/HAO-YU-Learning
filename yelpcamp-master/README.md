@@ -14,19 +14,6 @@
 This guide will help you to install *Node.js* and *npm*:
 https://docs.npmjs.com/getting-started/installing-node
 
-### Running Application:
-
-1. Run `mongod` command to start the MongoDB daemon.
-
-2. In another terminal window, run these commands:
-```
-git clone https://github.com/Rama4/yelpcamp.git
-cd yelpcamp
-npm install
-npm start
-```
-3. Browse to the url given in the output.<br/>
-Example: if the output is : ```Server running at http://localhost:3000``` then visit http://localhost:3000 in the browser.
 
 ## Technologies used:
 
